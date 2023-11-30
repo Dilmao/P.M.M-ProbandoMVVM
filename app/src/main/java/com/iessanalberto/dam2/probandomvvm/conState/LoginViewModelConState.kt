@@ -1,6 +1,7 @@
-package com.iessanalberto.dam2.probandomvvm
+package com.iessanalberto.dam2.probandomvvm.conState
 
 import androidx.lifecycle.ViewModel
+import com.iessanalberto.dam2.probandomvvm.conState.LoginUiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

@@ -1,4 +1,4 @@
-package com.iessanalberto.dam2.probandomvvm
+package com.iessanalberto.dam2.probandomvvm.sinState
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
